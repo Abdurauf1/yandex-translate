@@ -1,8 +1,8 @@
 import axios from 'axios'
-import React, { useEffect, useState } from 'react'
-import Input from '../components/input'
+import { useEffect, useState } from 'react'
+import Input from '../components/input/index'
 import Navbar from "../components/navbar/index"
-import TranslateCol from '../components/translateCol';
+import TranslateCol from '../components/translateCol/index';
 import { Col, Container } from "./style";
 
 function MainPage() {

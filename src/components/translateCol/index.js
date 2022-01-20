@@ -1,5 +1,3 @@
-import React from 'react'
-import { CopyToClipboard } from 'react-copy-to-clipboard';
 import {
     Comma,
     Example, Gen,

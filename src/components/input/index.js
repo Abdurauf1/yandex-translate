@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { InputBox, Textarea, TrFromToBox, Select } from "./style.js"
 
 function Input({ getTranslatedWords }) {
