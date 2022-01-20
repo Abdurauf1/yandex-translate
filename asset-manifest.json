@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/yandex-translate/static/css/main.9944bd7a.chunk.css",
-    "main.js": "/yandex-translate/static/js/main.22193da2.chunk.js",
-    "main.js.map": "/yandex-translate/static/js/main.22193da2.chunk.js.map",
+    "main.js": "/yandex-translate/static/js/main.da9a2b85.chunk.js",
+    "main.js.map": "/yandex-translate/static/js/main.da9a2b85.chunk.js.map",
     "runtime-main.js": "/yandex-translate/static/js/runtime-main.fde132cc.js",
     "runtime-main.js.map": "/yandex-translate/static/js/runtime-main.fde132cc.js.map",
-    "static/js/2.cf0568ec.chunk.js": "/yandex-translate/static/js/2.cf0568ec.chunk.js",
-    "static/js/2.cf0568ec.chunk.js.map": "/yandex-translate/static/js/2.cf0568ec.chunk.js.map",
+    "static/js/2.ce4cae45.chunk.js": "/yandex-translate/static/js/2.ce4cae45.chunk.js",
+    "static/js/2.ce4cae45.chunk.js.map": "/yandex-translate/static/js/2.ce4cae45.chunk.js.map",
     "index.html": "/yandex-translate/index.html",
     "static/css/main.9944bd7a.chunk.css.map": "/yandex-translate/static/css/main.9944bd7a.chunk.css.map",
-    "static/js/2.cf0568ec.chunk.js.LICENSE.txt": "/yandex-translate/static/js/2.cf0568ec.chunk.js.LICENSE.txt"
+    "static/js/2.ce4cae45.chunk.js.LICENSE.txt": "/yandex-translate/static/js/2.ce4cae45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fde132cc.js",
-    "static/js/2.cf0568ec.chunk.js",
+    "static/js/2.ce4cae45.chunk.js",
     "static/css/main.9944bd7a.chunk.css",
-    "static/js/main.22193da2.chunk.js"
+    "static/js/main.da9a2b85.chunk.js"
   ]
 }
